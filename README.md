@@ -3,7 +3,11 @@
 
 - 🌱 I’m currently learning **Data Analytics from Ineuron.**
 
-- 💬 Ask me about **SQL, Advanced Excel, Snowflake, Power BI, Python.**
+- 💬 Ask me about **SQL,
+   Advanced Excel,
+   Snowflake,
+   Power BI,
+   Python.**
 
 - 📫 How to reach me **vishalnivangune14.vn@gmail.com**
 
