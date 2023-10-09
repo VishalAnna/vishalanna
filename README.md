@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal R Nivangune</h1>
-<h3 align="center">Aspiring data analyst exploring the world of analytics. Passionate about data-driven insights and eager to learn new techniques.</h3>
+<h3 align="center">Aspiring Data Analyst exploring the world of analytics. Passionate about data-driven insights and eager to learn new techniques.</h3>
 
-- 🌱 I’m currently learning **Data Analytics from Ineuron.**
+- 🌱 I’m currently Enrolled in Full Stack Data Analytics Course from Ineuron.
 
 - 💬 Ask me about **SQL,
    Advanced Excel,
@@ -9,9 +9,7 @@
    Power BI,
    Python.**
 
-- 📫 How to reach me **vishalnivangune14.vn@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hZc2Mgi9gV4o5gaxEZmRKR9NohKrjWSt/view?usp=sharing](https://drive.google.com/file/d/1hZc2Mgi9gV4o5gaxEZmRKR9NohKrjWSt/view?usp=sharing)
+- 📫 How to reach me **vishalnivangune0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
