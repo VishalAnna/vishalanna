@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal R Nivangune</h1>
 <h3 align="center">Aspiring Data Analyst exploring the world of analytics. Passionate about data-driven insights and eager to learn new techniques.</h3>
 
-- 🌱 I’m currently Enrolled in Full Stack Data Analytics Course from Ineuron.
+- 🌱 
 
 - 💬 Ask me about **SQL,
    Advanced Excel,
